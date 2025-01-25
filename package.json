@@ -2,6 +2,12 @@
   "name": "langchain-semantic-search-engine",
   "version": "0.1.0",
   "private": true,
+  "description": "A semantic search engine built with LangChain and Next.js",
+  "keywords": [
+    "semantic search",
+    "LangChain",
+    "Next.js"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
