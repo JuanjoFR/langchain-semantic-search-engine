@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { triggerServerAction } from "../server/actions"; // Import the server action
+import { triggerServerAction } from "@/server-actions";
 
 export default function Home() {
   const [message, setMessage] = useState("");
