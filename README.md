@@ -6,6 +6,8 @@ This project uses Next.js with shadcn/ui for creating a semantic search engine w
 
 Watch the video below to see an example usage of the app, translating a phrase into multiple languages:
 
+[langchain-semantic-search-engine.webm](https://github.com/user-attachments/assets/3c54a824-359c-43df-8b61-f326e8c8c1e3)
+
 ## Technologies Used
 
 This project leverages the following technologies:
